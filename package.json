@@ -1,0 +1,22 @@
+{
+  "name": "api-map",
+  "version": "1.0.0",
+  "description": "Map API for tloll",
+  "main": "api-map.js",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-google": "^0.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "map"
+  ],
+  "author": "Andrew Blackburn <andrew.blackburn@protonmail.com>",
+  "license": "ISC"
+}
